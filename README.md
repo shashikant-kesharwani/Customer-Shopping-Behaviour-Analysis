@@ -4,8 +4,8 @@ This project analyzes customer shopping behavior using transactional data from 3
 The project combines Python (Data Cleaning & EDA), SQL (Business Analysis), and Power BI (Dashboard Visualization) to deliver end-to-end data analysis.
 
 # Dataset Summary
-Total Records: 3,900
-Total Columns: 18
+1. Total Records: 3,900
+2. Total Columns: 18
 
 # Key Features:
 1. Customer demographics (Age, Gender, Location, Subscription Status)
